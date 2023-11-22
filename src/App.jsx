@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, BrowserRouter, Routes } from "react-router-dom"
-import Header from './component/Header'
+// import Header from './component/Header'
 import Home from './component/Home'
 import Coins from './component/Coins'
 import Exchange from './component/Exchange'
