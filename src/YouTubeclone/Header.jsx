@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Router, Routes } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 // import Videos from "./Videos"
 import Navbar from './Navbar'
 import VideoDetail from './VideoDetails'
