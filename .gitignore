@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 component
-App.jsx
+/App.jsx
 
 # Editor directories and files
 .vscode/*
