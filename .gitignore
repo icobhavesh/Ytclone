@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 component
-/src/App.jsx
+src/App.jsx
 
 
 # Editor directories and files
