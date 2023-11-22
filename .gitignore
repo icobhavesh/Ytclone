@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 component
-App*
+# App
 
 
 # Editor directories and files
