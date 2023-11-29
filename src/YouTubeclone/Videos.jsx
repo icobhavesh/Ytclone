@@ -1,5 +1,5 @@
 import React from "react";
-import Loader from "../component/Loader";
+import Loader from "./Loader"
 // import { Stack, div } from "@mui/material";
 // import LoadingSkeleton from "./LoadingSkeleton";
 import ChannelCard from "./ChannelCard";
